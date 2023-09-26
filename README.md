@@ -2,7 +2,7 @@
 
 Live Preview at : https://myself.now.sh/
 
-### Hi there 👋 I am ZInedinedumas, a full stack web and app developer. I love to build new things that excites me a lot.
+### Hi there 👋 I am Miyamoto Satoshi, a full stack web and app developer. I love to build new things that excites me a lot.
 
 # buy-me-a-coffee
 Liked some of my work? Buy me a coffee (or more likely a beer) as it motivates me to build new things 😊
