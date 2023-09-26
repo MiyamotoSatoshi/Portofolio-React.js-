@@ -36,18 +36,17 @@ class Education extends Component {
                         </div>
                         <div className={classes.label}>
                           <h2>
-                            Experience <span>July(2021)-Present</span>
+                            Experience <span>August(2019)-July(2023)</span>
                           </h2>
                           <p>
-                            I am currently working as <b>Software Developer Engineer</b> at{' '}
-                            <a target='_blank' href='https://www.springworks.in/'>
-                              <b>Springworks</b>
-                            </a>{' '}
+                            I am currently working as <b>Senior Full Stack Engineer</b> at JOHO TECHNOLOGY
+                            <a target='_blank' href='https://www.joho.com/'>
+                              <b>JOHO TECHNOLOGY</b>
+                            </a>
                             <i>
-                              (previously Springrole and Springworks is a HR technology startup that
-                              is building tools and products to simplify recruiting and help
-                              organizations engage and retain their employees)
-                            </i>{' '}
+                              (Worked on the development of a browser-based application using Ruby on Rails resulting in a 20% increase in user engagement. Improved
+                              application performance by optimizing REST API calls and reducing load times resulting in a 15% increase in page speed. Collaborated with crossfunctional teams to ensure timely delivery of project milestones)
+                            </i>
                             and boosting my professional skills.
                           </p>
                         </div>
@@ -66,11 +65,11 @@ class Education extends Component {
                         </div>
                         <div className={classes.label}>
                           <h2>
-                            Undergraduation at SLIET <span>2017-2021</span>
+                            Undergraduation at Information Science and Technology <span>2010-2014</span>
                           </h2>
                           <p>
                             I completed my undergraduation in CSE (Computer Science and Engineering)
-                            from <a href='http://sliet.ac.in/'>SLIET</a> with overall 82.71%.
+                            from <a href='http://sliet.ac.in/'>Information Science and Technology</a> with overall 82.71%.
                           </p>
                         </div>
                       </article>
@@ -82,20 +81,6 @@ class Education extends Component {
                       animateOnce={true}
                       initiallyVisible={true}
                     >
-                      <article className={classes.timeline_entry}>
-                        <div className={`${classes.timeline_icon} ${classes.timeline_icon_2}`}>
-                          <FaSchool />
-                        </div>
-                        <div className={classes.label}>
-                          <h2>
-                            Higher Education <span>2014-2016</span>
-                          </h2>
-                          <p>
-                            I have completed my higher education from HKIS with major subjects as
-                            Physics,Chemistry & Maths with 85% merit in CBSE board.{' '}
-                          </p>
-                        </div>
-                      </article>
                     </ScrollAnimation>
 
                     <ScrollAnimation

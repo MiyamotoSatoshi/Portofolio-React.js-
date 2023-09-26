@@ -61,7 +61,7 @@ class Interest extends Component {
                   I also have decent hand in developing website with WordPress or others CMS as
                   well.
                   <br />
-                  Redux, GraphQL, Next.js, Problem solving, Github are my fields of interest.
+                  Redux Problem solving, Github are my fields of interest.
                   Currently, I am investing my free time in Web3.js
                 </p>
               </div>

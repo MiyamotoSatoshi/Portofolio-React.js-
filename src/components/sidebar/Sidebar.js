@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Sidebar.css';
 import { HashLink as Link } from 'react-router-hash-link';
-import logo from '../images/sam.jpg';
+import logo from '../images/My Photo.png';
 
 class Sidebar extends Component {
   render() {
@@ -18,7 +18,7 @@ class Sidebar extends Component {
         </div>
         <h1>
           <Link smooth to='/#start' className='h1_links'>
-            Zinedine Dumas
+            Miyamoto satoshi
           </Link>
         </h1>
 
@@ -29,7 +29,7 @@ class Sidebar extends Component {
             target='_blank'
             className='fa fa-envelope'
           ></a>{' '}
-          zinedinedumas@gmail.com
+          satoshimiyamoto2@gmail.com
         </p>
 
         <ul className='sidebar-nav'>

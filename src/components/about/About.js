@@ -18,16 +18,15 @@ class About extends Component {
           <h2 className={classes.heading}>Who Am I?</h2>
           <div className={classes.About}>
             <p>
-              My name is <b>SACHIN MITTAL</b> and I am currently working as{' '}
-              <b>Software Developer Engineer</b> at
+              My name is <b>Miyamoto Satoshi</b> and I am currently working as JOHO TECHNOLOGY
+              <b>Senior Full Stack Engineer</b> at
               <b>
-                {' '}
-                <a className={classes.link} target='_blank' href='https://www.springworks.in/'>
-                  Springworks
+                <a className={classes.link} target='_blank' href='https://www.joho.com/'>
+                  JOHO TECHNOLOGY
                 </a>
               </b>
               . I completed my degree in Bachelor of Technology in Computer Science and Engineering
-              from Sant Longowal Institute of Engineering and Technology. I am much interested in
+              from ToKyo University. I am much interested in
               developing new things which excite me a lot. :)
             </p>
             <p className={classes.br}>
